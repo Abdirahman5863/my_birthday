@@ -1,0 +1,32 @@
+.theebody{
+    background-image: url(public/osama.jpg);
+    font-family: sans-serif;
+
+
+}
+.counter{  padding: 60px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(41, 10, 217, 0.2);
+    margin: 20px auto;
+    max-width: 400px;
+    color: rgb(182, 219, 15);
+    background-image: url(public/osama.jpg);
+
+
+
+}
+#content{
+    font-size: 36px;
+    margin-top: 20px;
+    color: rgb(255, 240, 127);
+
+}
+
+.counter-content{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 36px;
+    color:red;
+
+    
+}
